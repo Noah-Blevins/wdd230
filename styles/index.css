@@ -1,7 +1,13 @@
 header {
     background-color:cyan;
     border-radius: 20px;
+    width: 50%;
+    height: 100px;
+}
+
+#headerContent {
     display: grid;
-    grid-column-start: auto;
+    grid-template-columns: auto auto;
+    margin: 15px;
 }
 
