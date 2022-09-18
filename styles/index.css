@@ -1,0 +1,7 @@
+header {
+    background-color:cyan;
+    border-radius: 20px;
+    display: grid;
+    grid-column-start: auto;
+}
+
